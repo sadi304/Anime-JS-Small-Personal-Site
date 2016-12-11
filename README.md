@@ -1,4 +1,4 @@
-## Anime JS PErsonal Site (Just for Demonstration Some Animation)
+## Anime JS Personal Site (Just for Demonstrating Some Animation)
 Small Single Site using Anime JS
 
 ### Used Assets
